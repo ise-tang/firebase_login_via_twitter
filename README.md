@@ -3,6 +3,8 @@
 Firebase の Authentication を Twitter を使って行うサンプルです。  
 アプリは vue-cli を使って作成しています。
 
+![firebase_login_via_twitter](https://user-images.githubusercontent.com/2083116/45584754-60d73080-b914-11e8-926f-040bdc7b2bad.gif)
+
 ## Usage
 
 * Twitter のアプリ登録をしてAPI Key/API Secret を取得
@@ -23,7 +25,7 @@ Firebase の Authentication を Twitter を使って行うサンプルです。
 
 #### FirebaseLogin.vue
 
-名前の通り Firebase での Twitter ログインを行う
+名前の通り Firebase での Twitter ログインを行う
 
 #### HelloWorld.vue
 
